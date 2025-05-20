@@ -34,3 +34,11 @@ This is a simple machine learning web application built with **Streamlit** that 
 ```bash
 git clone https://github.com/your-username/crop-yield-app.git
 cd crop-yield-app
+
+2. Instal depedencies
+'''bash
+pip install -r requirements.txt
+
+3. Run the app locally
+'''bash
+streamlit run app.py
