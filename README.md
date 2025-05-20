@@ -1,8 +1,8 @@
-# 🌾 Kano Crop Yield Predictor
+# 🌾 Crop Yield Predictor
 
-This is a simple machine learning web application built with **Streamlit** that predicts the yield of major crops in **Kano State, Nigeria**, based on farming inputs like rainfall, temperature, fertilizer, and area of land.
+This is a simple machine learning web application built with **Streamlit** that predicts the yield of major crops, based on farming inputs like rainfall, temperature, fertilizer, and area of land.
 
-🔗 [Live App on Streamlit](https://your-username-streamlit-app-name.streamlit.app)  
+🔗 [Live App on Streamlit](https://ai-crop-predictor.streamlit.app)  
 📊 Built for the [3MTT Knowledge Showcase](https://3mtt.nitda.gov.ng)
 
 ---
